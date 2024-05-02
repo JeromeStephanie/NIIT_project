@@ -1,12 +1,12 @@
 import { useState } from 'react'
-import './App.css'
+import Footer from './helpers/Footer'
 
 function App() {
   
 
   return (
     <>
-      God is Good!!......
+      <Footer/>
     </>
   )
 }
