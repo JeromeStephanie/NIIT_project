@@ -43,7 +43,7 @@ const Footer = () => {
             <FaLinkedin />
           </div>
         </div>
-        <div className="flex gap-[70px]">
+        <div className="grid grid-cols-2 w-full xl:grid-cols-3 lg:grid-cols-2 gap-[70px]">
           <div>
             <p className="font-[600] text-[20px] leading-[24.2px] mb-[20px]">
               Website Links
