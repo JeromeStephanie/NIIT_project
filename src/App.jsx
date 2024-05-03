@@ -1,4 +1,4 @@
-import Footer from './helpers/Footer'
+import Footer from './assets/Footer'
 
 function App() {
   
